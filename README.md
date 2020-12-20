@@ -1,10 +1,7 @@
 The whole system is using these versions of packages:
-> postgres: v9.5.24  //required
-
-> node: 10.16.3
-
-> npm: 6.9.0
-
+> postgres: v9.5.24  //required\
+> node: 10.16.3\
+> npm: 6.9.0\
 > react: 17.0.1
 
 This README also assumes that these packages are correctly installed.
